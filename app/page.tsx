@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <main className="min-h-screen flex flex-col justify-center items-center">
+      <h1>Comming Soon...</h1>
+    </main>
+  );
+};
 
-export default Home
+export default Home;
